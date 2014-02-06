@@ -8,10 +8,10 @@ the actuator and the second retracts the actuator.
  
  
  The circuit:
- * RobotGeek Pushbutton - Digital Pin 1
  * RobotGeek Pushbutton - Digital Pin 2
- * RobotGeek Relay - Digital Pin 4 
+ * RobotGeek Pushbutton - Digital Pin 4
  * RobotGeek Relay - Digital Pin 7 
+ * RobotGeek Relay - Digital Pin 8 
  
 Products Used in this demo:
  - http://www.robotgeek.com/linear-actuators
